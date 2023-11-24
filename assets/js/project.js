@@ -29,6 +29,12 @@ const projects = [
     Previewlink: "https://umerrawala-text-summarizer-app-text-summarizer-zrp5av.streamlit.app/",
     Githublink: "https://github.com/Umerrawala/Text-summarizer-App",
   },
+ {
+    title: "GPT Discord Bot using Python",
+    cardImage: "assets/images/project-page/essay.png",
+    description: "Discord Bot made using OpenAI",
+    Githublink: "https://github.com/mhmumer/GPT-Discord-Bot",
+  },
   {
     title: "Biryani Man",
     cardImage: "assets/images/project-page/biryani.png",
