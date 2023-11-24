@@ -21,6 +21,14 @@ const projects = [
     Previewlink: "https://essay-writer.streamlit.app/",
     Githublink: "https://github.com/Umerrawala/Essay-Writer-Streamlit-App",
   },
+ {
+    title: "Text Summarizer App",
+    cardImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQooPumS5fqxb-mV8Yxn7RjkylANSypWPwHLSQkAjAhsg&s",
+    description: "Text Summarizer Webapp made using Python",
+    
+    Previewlink: "https://umerrawala-text-summarizer-app-text-summarizer-zrp5av.streamlit.app/",
+    Githublink: "https://github.com/Umerrawala/Text-summarizer-App",
+  },
   {
     title: "Biryani Man",
     cardImage: "assets/images/project-page/biryani.png",
@@ -38,39 +46,8 @@ const projects = [
     Previewlink: "himleather.com",
     Githublink: "",
   },
-  {
-    title: "Double Sips store",
-    cardImage: "assets/images/project-page/1.jpg",
-    description: "Shopify store doublesips.",
-    
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Front-End Website",
-    cardImage: "https://umerrawala.github.io/Portfolio-website/images/we.png",
-    description: "Front-End Website made using HTML, CSS and JS.",
-    
-    Previewlink: "https://umerrawala.github.io/Mathelites/",
-    Githublink: "https://github.com/Umerrawala/Mathelites",
-  },
-  {
-    title: "Tic Tac Toe Game",
-    cardImage: "assets/images/project-page/tic-tac-toe.png",
-    description:
-      "Tic Tac Toe game made using javascript.",
-    
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Text Summarizer App",
-    cardImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQooPumS5fqxb-mV8Yxn7RjkylANSypWPwHLSQkAjAhsg&s",
-    description: "Text Summarizer Webapp made using Python",
-    
-    Previewlink: "https://umerrawala-text-summarizer-app-text-summarizer-zrp5av.streamlit.app/",
-    Githublink: "https://github.com/Umerrawala/Text-summarizer-App",
-  },
+  
+  
   
 ];
 
