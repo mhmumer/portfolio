@@ -11,9 +11,9 @@ const moocscards = [
   },
   
   {
-    title: "Machine Learning",
+    title: "Crash Course on Python by Google",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/YGC58L7H57F7",
   },
  ];
 
