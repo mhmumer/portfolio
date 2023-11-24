@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
  {
-    title: "Memory Chatbot",
+    title: "Memory Chatbot using Streamlit and OpenAI",
     cardImage: "assets/images/project-page/memory.png",
     description: "A Chatbot webapp made using Python",
     
@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/Umerrawala/Memory-chatbot",
   },
   {
-    title: "Essay Writer Bot",
+    title: "Essay Writer Bot using Streamlit and OpenAI",
     cardImage: "assets/images/project-page/essay.png",
     description: "Essay writer bot made using Python",
     
@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/Umerrawala/Essay-Writer-Streamlit-App",
   },
  {
-    title: "Text Summarizer App",
+    title: "Text Summarizer App using Streamlit and OpenAI",
     cardImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQooPumS5fqxb-mV8Yxn7RjkylANSypWPwHLSQkAjAhsg&s",
     description: "Text Summarizer Webapp made using Python",
     
