@@ -35,6 +35,16 @@ const projects = [
     description: "Discord Bot made using OpenAI",
     Githublink: "https://github.com/mhmumer/GPT-Discord-Bot",
   },
+ {
+    title: "AI ROCK PAPER Scissor Game",
+    
+    Githublink: "https://github.com/mhmumer/Ai-rock-paper-scizzor",
+  },
+  {
+    title: "heart disease detection ML project ",
+    
+    Githublink: "https://github.com/mhmumer/heart-disease-detection-ML-project",
+  },
   {
     title: "Biryani Man",
     cardImage: "assets/images/project-page/biryani.png",
