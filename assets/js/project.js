@@ -5,15 +5,7 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
-  {
-    title: "Biryani Man",
-    cardImage: "assets/images/project-page/biryani.png",
-    description: "A frontend website made using basic react.",
-    
-    Previewlink: "https://umerrawala.github.io/biryaniman/",
-    Githublink: "https://github.com/Umerrawala/biryaniman",
-  },
-  {
+ {
     title: "Memory Chatbot",
     cardImage: "assets/images/project-page/memory.png",
     description: "A Chatbot webapp made using Python",
@@ -29,6 +21,15 @@ const projects = [
     Previewlink: "https://essay-writer.streamlit.app/",
     Githublink: "https://github.com/Umerrawala/Essay-Writer-Streamlit-App",
   },
+  {
+    title: "Biryani Man",
+    cardImage: "assets/images/project-page/biryani.png",
+    description: "A frontend website made using basic react.",
+    
+    Previewlink: "https://umerrawala.github.io/biryaniman/",
+    Githublink: "https://github.com/Umerrawala/biryaniman",
+  },
+  
   {
     title: "HiM Leather Store",
     cardImage: "assets/images/experience-page/1.jpg",
